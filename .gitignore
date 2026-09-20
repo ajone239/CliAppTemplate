@@ -1,0 +1,4 @@
+CalTrack.xcodeproj/
+.build/
+.compile
+.env
