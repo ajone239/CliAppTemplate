@@ -31,7 +31,7 @@ targets:
         INFOPLIST_KEY_NSCameraUsageDescription: "This is a template"
         SWIFT_VERSION: "6.0"
     entitlements:
-      path: App/CalTrack.entitlements
+      path: App/CliSwiftUiTemplate.entitlements
       properties:
         com.apple.developer.healthkit: false
         com.apple.developer.healthkit.access: []
